@@ -1,0 +1,6 @@
+n1=float(input("Digite o primeiro número:"))
+n2=float(input("Digite o segundo número:"))
+print(f"Soma:{n1+n2}")
+print(f"Diferença:{n1-n2}")
+print(f"Produto:{n1*n2}")
+print(f"Resto da Divisão:{n1%n2}")
